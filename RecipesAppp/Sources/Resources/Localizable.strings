@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  RecipesAppp
+
+  Created by David on 18/08/23.
+  
+*/
+
+// MARK: Initial View
+"APP_NAME" = "Recipes App";
+"SEARCH_PALCEHOLDER" = "Search your favorite recipes";
+
+// MARK: List meals View
+"NAVIGATION_TITLE_LIST_MEALS_VIEW" = "Nice Recipes";
+
+// MARK: Alert
+"ALERT_TITLE_ERROR" = "Occurs an error";
+"ALERT_BUTTON_OK" = "OK";
